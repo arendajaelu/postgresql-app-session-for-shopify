@@ -1,6 +1,6 @@
 {
   "name": "@arendajaelu/postgresql-app-session",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Shopify App Session Storage for PostgreSQL with bugfixing",
   "main": "./build/cjs/postgresql.js",
   "types": "./build/ts/postgresql.d.ts",
@@ -33,7 +33,6 @@
   "devDependencies": {
     "@shopify/eslint-plugin": "^42.0.1",
     "@shopify/prettier-config": "^1.1.2",
-    "@shopify/shopify-app-session-storage-test-utils": "^0.0.3",
     "@types/jest": "^29.1.1",
     "@types/pg": "^8.6.5",
     "eslint": "^8.24.0",
