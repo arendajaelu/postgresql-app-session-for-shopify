@@ -1,0 +1,25 @@
+{
+  "name": "postgresql-app-session-for-shopify",
+  "version": "1.0.0",
+  "description": "Shopify App Session Storage for PostgreSQL with bugfixing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arendajaelu/postgresql-app-session-for-shopify.git"
+  },
+  "keywords": [
+    "shopify",
+    "postgre",
+    "session",
+    "shopify-app-session-storage-postgresql"
+  ],
+  "author": "Arendaja Elu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arendajaelu/postgresql-app-session-for-shopify/issues"
+  },
+  "homepage": "https://github.com/arendajaelu/postgresql-app-session-for-shopify#readme"
+}
