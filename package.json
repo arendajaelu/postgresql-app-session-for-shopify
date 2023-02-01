@@ -1,5 +1,5 @@
 {
-  "name": "postgresql-app-session-for-shopify",
+  "name": "@arendajaelu/postgresql-app-session",
   "version": "1.0.0",
   "description": "Shopify App Session Storage for PostgreSQL with bugfixing",
   "main": "./build/cjs/postgresql.js",
@@ -53,4 +53,3 @@
     "!node_modules"
   ]
 }
-
